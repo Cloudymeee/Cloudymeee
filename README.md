@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cloudymeee
 - 👀 I’m interested in designing.
-- 🌱 I’m currently learning ui/ux design.
+- 🌱 I’m currently learning web development.
 
 
 
